@@ -1532,7 +1532,7 @@ export default function Page() {
               <div>Know Your Hidden</div>
               <div className="text-indigo-600">Ministry Potential</div>
             </h2>
-
+{/* asdad */}
             <p className="text-xl text-gray-600 mb-8 leading-relaxed max-w-3xl mx-auto">
               Unsure where to serve? Our 2-minute assessment suggests ministries that match your gifts and passions. The final choice is always yours.
             </p>
